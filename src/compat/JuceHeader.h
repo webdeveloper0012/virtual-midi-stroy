@@ -15,3 +15,4 @@ namespace ProjectInfo
     const char* const  versionString  = "0.1.0";
     const int          versionNumber  = 0x100;
 }
+ 
